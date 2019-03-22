@@ -41,7 +41,7 @@ class Product:
             if explodability > 50:
                 return '...BABOOM!!!'
             else:
-                return "...boom! :)"
+                return "...boom!"
 
 class BoxingGlove(Product):
     def __init__(self,
