@@ -264,9 +264,27 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
+  **answer** Something important when reviewing code is the communication between you 
+  and the person who's code that you are reviewing. It's the mindfulness with not coming off
+  too strong or not being personable, because after all we are human and we make mistakes. Another 
+  important part about code reviews is a test for your own intuition and ability to recognize problems
+  and attention to detail. So there is a dynamic between the macro ability to review but also the minute
+  micro ability. It's important to appreciate code reviews because one of your peers is sacrificing their
+  time to review your work, without any incentive but to help you grow. 
+  
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
+  **answer** Containers are extremely useful for containing specific environments. Whether it be
+  for development, processing, data cleaning, testing, etc. It's highly anticipated that there would 
+  be more trouble if one did not have different environments for these different tasks. Also containers 
+  are useful for keeping these environments consistent across multiple machines. For instance, with 
+  a container you can store all the required dependencies, operating system, parameter preferences, etc/
+  and have somebody who's running on a completely different operating system with their pip or node all
+  messed up and not incur any issues! This would be extremely useful as well for helping get those
+  who have limited experience with different development environments, acquainted to utilizing the 
+  advantages of other environments without giving them a completely new machine/operating system 
+  to learn. 
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
